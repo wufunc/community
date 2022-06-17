@@ -186,3 +186,15 @@ Features
 * Merge docker and cri exp
 * Support container jvm exp
 * Merge OS bin to reduce package size
+
+## next version -- todo
+This version fixes some bugs of the previous version. 
+
+* Improve the chaosblade.io website and documentation
+* Box: some table not existed -- have fixed
+* Agent: not use external-ip
+* Box-fe: experiment time is wrong
+* Blade: create node cpu fullload invalid 
+* Blade: GetPidsByProcessName slow execution, lead to be signal killed
+
+
