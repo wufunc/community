@@ -43,7 +43,6 @@ ChaosBlade is encapsulatd into separate projects according to the scene field, a
 
 ## Road map
 You can learn about ChaosBlade's development history and future plans through the [roadmap](./Roadmap.md)
-![](./roadmap.png)
 
 
 ## Contact us
