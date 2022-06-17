@@ -42,8 +42,7 @@ ChaosBlade is encapsulatd into separate projects according to the scene field, a
 * [chaosblade-exec-cplus](https://github.com/chaosblade-io/chaosblade-exec-cplus): C ++ application experimental scenario implementation, using GDB technology to implement method and code line level experimental scenario injection.
 
 ## Road map
-You can learn about ChaosBlade's development history and future plans through the [roadmap](./Roadmap.md)
-![](./roadmap.png)
+You can learn about ChaosBlade's development history and future plans through the [roadmap](roadmap.md)
 
 
 ## Contact us

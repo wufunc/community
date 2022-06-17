@@ -40,7 +40,7 @@ ChaosBlade按场景领域实现封装成一个个单独的项目，对任何一�
 * [chaosblade-exec-cplus](https://github.com/chaosblade-io/chaosblade-exec-cplus): C++ 应用实验场景实现，使用 GDB 技术实现方法、代码行级别的实验场景注入。
 
 ## 路线图
-您可通过[路线图](./Roadmap.md)来了解ChaosBlade的发展历程和未来规划
+您可通过[路线图](roadmap.md)来了解ChaosBlade的发展历程和未来规划
 
 ## 联系我们
 
