@@ -6,19 +6,18 @@ ChaosBlade是一个开放且活跃的社区，专注于混沌工程学科的探�
 
 ## 社区会议
 
-ChaosBlade社区将于每双周周周五的下午7点举行视频会议（从2022年6月17日开始），来讨论ChaosBlade的现状和发展规划。参与双周会能够让您更快的了解ChaosBlade正在做什么，这将有助于您更好的参与到开源社区来，更方便的提出您的建议以及明确参与贡献的方向。
+ChaosBlade社区将于每双周周周4的下午8点举行视频会议（从2022年6月17日开始），来讨论ChaosBlade的现状和发展规划。参与双周会能够让您更快的了解ChaosBlade正在做什么，这将有助于您更好的参与到开源社区来，更方便的提出您的建议以及明确参与贡献的方向。
 
 Regular Community Meeting:
 
-* Thursday 7:00pm Beijing Time (Bi-weekly, Starting 6.17, 2022).
+* Thursday 8:00pm Beijing Time (Bi-weekly, Starting 6.17, 2022).
   
 Quickly Link:
 
-- [Meeting Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=cnM2cGJjYmdmYThvaGVoZjY4M21lZWprdXNfMjAyMjA2MTdUMTEwMDAwWiBjYW1peDAxMTZAbQ&tmsrc=camix0116%40gmail.com&scp=ALL)
-- [Meeting Link](https://zoom.us/j/99932900142?pwd=dlFQYWRzdWZaSDVZd1NkUzcydjZFUT09)
-- [Meeting Documentation](TODO_会议文档)
-- [Meeting Recordings(bilibili)](TODO_会议记录（bilibili）)
-- [Meeting Recordings(youtube)](TODO_会议记录（youtube）)
+- [Meeting Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/Y3RsN3ExY2w5bGdmaWFwMzhoaW1iMGowbm9fMjAyMjA3MDFUMDMwMDAwWiBvYW1kZXYyMDIwQG0)
+- [Meeting Link](https://us02web.zoom.us/j/81618025810?pwd=WEEySUFQd0JYeThjTUdpOXdLeG8wUT09)
+- [Meeting Documentation](meeting/meeting_minutes_cn.md)
+- [Meeting Recordings(bilibili)](https://space.bilibili.com/22390414/video)
 
 ## 贡献者阶梯
 
@@ -26,7 +25,7 @@ Quickly Link:
 
 在参与贡献前，请阅读[CONTRIBUTING](https://github.com/chaosblade-io/chaosblade/blob/master/CONTRIBUTING.md)
 
-如果您满足成为ChaosBlade成员晋升（Memeber、Reviewer、Maintainer）的要求，可通过[提交issue](TODO_社区ISSUE链接)来申请
+如果您满足成为ChaosBlade成员晋升（Memeber、Reviewer、Maintainer）的要求，可通过[提交issue](https://github.com/chaosblade-io/chaosblade/issues)来申请
 
 ## 治理
 ChaosBlade按场景领域实现封装成一个个单独的项目，对任何一个项目的贡献都会计入到贡献者阶梯的晋升要求中。

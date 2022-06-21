@@ -120,8 +120,8 @@ Maintainer必须满足Reviewer的职责和要求，此外：
     * 在维护者决策会议中投票
     
 成为Maintainer的过程是：
-1. 判断你是否满足要求。如果满足，请在社区中[提交 ISSUE](TODO_社区ISSUE) 并提供相关证明文件
-2. 社区审核相关信息。如果社区批准并且没有其他审稿人反对，申请人需要[提交 PR](TODO_社区PR)
+1. 判断你是否满足要求。如果满足，请在社区中[提交 ISSUE](https://github.com/chaosblade-io/chaosblade/issues) 并提供相关证明文件
+2. 社区审核相关信息。如果社区批准并且没有其他审稿人反对，申请人需要[提交 PR](proposals/promotion_maintainer_MandssS.md)
 3. PR接受，申请者将成功加入Maintainer列表
 
 ## 不活跃

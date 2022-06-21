@@ -7,19 +7,18 @@ Here's the developer guide - on how to commit code, member ladders, related meet
 
 ## Community meeting
 
-The ChaosBlade community will hold video conferences every biweekly Friday 7:00pm (starting from 17th June, 2022) to discuss the current status and development plans of ChaosBlade. Participating in the bi-weekly meeting will allow you to understand what ChaosBlade is doing more quickly, which will help you better participate in the open source community, make your suggestions more easily, and clarify the direction of participation and contribution.
+The ChaosBlade community will hold video conferences every biweekly Thursday 8:00pm (starting from 17th June, 2022) to discuss the current status and development plans of ChaosBlade. Participating in the bi-weekly meeting will allow you to understand what ChaosBlade is doing more quickly, which will help you better participate in the open source community, make your suggestions more easily, and clarify the direction of participation and contribution.
 
 Regular Community Meeting:
 
-* Friday 7:00pm Beijing Time (Bi-weekly, Starting 17th June, 2022).
+* Thursday 8:00pm Beijing Time (Bi-weekly, Starting 17th June, 2022).
   
 Quickly Link:
 
-- [Meeting Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=cnM2cGJjYmdmYThvaGVoZjY4M21lZWprdXNfMjAyMjA2MTdUMTEwMDAwWiBjYW1peDAxMTZAbQ&tmsrc=camix0116%40gmail.com&scp=ALL)
-- [Meeting Link](https://zoom.us/j/99932900142?pwd=dlFQYWRzdWZaSDVZd1NkUzcydjZFUT09)
-- [Meeting Documentation](TODO_会议文档)
-- [Meeting Recordings(bilibili)](TODO_会议记录（bilibili）)
-- [Meeting Recordings(youtube)](TODO_会议记录（youtube）)
+- [Meeting Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/Y3RsN3ExY2w5bGdmaWFwMzhoaW1iMGowbm9fMjAyMjA3MDFUMDMwMDAwWiBvYW1kZXYyMDIwQG0)
+- [Meeting Link](https://us02web.zoom.us/j/81618025810?pwd=WEEySUFQd0JYeThjTUdpOXdLeG8wUT09)
+- [Meeting Documentation](meeting/meeting_minutes_cn.md)
+- [Meeting Recordings(bilibili)](https://space.bilibili.com/22390414/video)
 
 ## Contributor ladder
 

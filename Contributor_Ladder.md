@@ -66,8 +66,8 @@ An Organization Member must meet the responsibilities and has the requirements o
     * Can recommend other contributors to become Org Members
 
 The process for a Contributor to become an Organization Member is as follows:
-1. Determine whether you meet the requirements. If satisfied, [submit an ISSUE](TODO_社区ISSUE) in the community with relevant supporting documents
-2. The community reviews the relevant information. If the community approve and no other members object, applicant need to [submie a PR](TODO_社区PR)
+1. Determine whether you meet the requirements. If satisfied, [submit an ISSUE](https://github.com/chaosblade-io/chaosblade/issues) in the community with relevant supporting documents
+2. The community reviews the relevant information. If the community approve and no other members object, applicant need to [submie a PR](proposals/promotion_maintainer_MandssS.md)
 3. PR accepted, applicant will be successfully added to the Member list
 
 
@@ -91,8 +91,8 @@ Reviewers have all the rights and responsibilities of an Organization Member, pl
     * Can recommend and review other contributors to become Reviewers
 
 The process of becoming a Reviewer is:
-1. Determine whether you meet the requirements. If satisfied, [submit an ISSUE](TODO_社区ISSUE) in the community with relevant supporting documents
-2. The community reviews the relevant information. If the communtity approve and no other reviewer object, applicant need to [submie a PR](TODO_社区PR)
+1. Determine whether you meet the requirements. If satisfied, [submit an ISSUE](https://github.com/chaosblade-io/chaosblade/issues) in the community with relevant supporting documents
+2. The community reviews the relevant information. If the communtity approve and no other reviewer object, applicant need to [submie a PR](proposals/promotion_maintainer_MandssS.md)
 3. PR accepted, applicant will be successfully added to the Reviewer list
 
 
@@ -121,8 +121,8 @@ A Maintainer must meet the responsibilities and requirements of a Reviewer, plus
     * Have a vote in Maintainer decision-making meetings
     
 Process of becoming a maintainer:
-1. Determine whether you meet the requirements. If satisfied, [submit an ISSUE](TODO_社区ISSUE) in the community with relevant supporting documents
-2. The community reviews the relevant information. If the communtity approve and no other maintainer object, applicant need to [submie a PR](TODO_社区PR)
+1. Determine whether you meet the requirements. If satisfied, [submit an ISSUE](https://github.com/chaosblade-io/chaosblade/issues) in the community with relevant supporting documents
+2. The community reviews the relevant information. If the communtity approve and no other maintainer object, applicant need to [submie a PR](proposals/promotion_maintainer_MandssS.md)
 3. PR accepted, applicant will be successfully added to the Reviewer list
 
 ## Inactivity
