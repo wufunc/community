@@ -40,3 +40,5 @@ https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《Chaos
 ## 讨论点
 * 生产环境实施故障演练流程
 * 关于自动化进行混沌工程验证可行性
+## 参考文档
+[故障演练实战与落地](doc/故障演练实战与落地.pdf)
