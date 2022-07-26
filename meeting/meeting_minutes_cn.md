@@ -29,3 +29,14 @@
 
 ## 参考文档
 https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《ChaosBlade 1.6.x 新特性》
+
+# 2022.07.14
+## 主要主题
+* ChaosBlade 业务价值
+* ChaosBlade 永辉落地环境解读
+* ChaosBlade 业务线落地流程实战
+
+
+## 讨论点
+* 生产环境实施故障演练流程
+* 关于自动化进行混沌工程验证可行性
