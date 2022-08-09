@@ -1,5 +1,8 @@
 # 会议纪要 -- 中文
 # 2022.06.17
+## 分享人
+蔡铭霞（阿里云）
+
 ## 主要主题
 * 目前社区的晋升机制
 * 社区的roadmap
@@ -16,6 +19,9 @@
 > sandbox fork后自行修复
 
 # 2022.06.30
+## 分享人
+叶飞（perfma）
+
 ## 主要主题
 * ChaosBlade 1.6.X 版本新特性
 * ChaosBlade 1.6.X 版本底层实现原理
@@ -31,6 +37,9 @@
 https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《ChaosBlade 1.6.x 新特性》
 
 # 2022.07.14
+## 分享人
+恒宇（永辉超市）
+
 ## 主要主题
 * 《永辉超市故障演练实战与落地》分享
   * ChaosBlade 业务价值
@@ -44,6 +53,9 @@ https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《Chaos
 [故障演练实战与落地](doc/故障演练实战与落地.pdf)
 
 # 2022.07.28
+## 分享人
+肖长军（阿里云）
+
 ## 主要主题
 * 《高可用系统设计原则》分享- @xcaspar
 
