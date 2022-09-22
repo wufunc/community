@@ -126,6 +126,7 @@ https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《Chaos
 ## 参会人
 蔡铭霞 （阿里云）
 曹付江（移动运维）
+李森森（移动）
 
 ## 主要主题
 应大家诉求，本次周会主要演示下golang代码如何debug，包括以下几个model @铭少（阿里云）
