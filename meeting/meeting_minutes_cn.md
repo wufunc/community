@@ -120,3 +120,14 @@ https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《Chaos
 * 1.7.0新版本特性介绍 @铭少 （阿里云）
 *  time相关场景实现介绍 @铭少 （阿里云）
 *  zookeeper 和clickhouse 场景实现介绍 @刘海强（笨马网络）
+
+# 2022.09.22
+
+## 参会人
+蔡铭霞 （阿里云）
+
+## 主要主题
+应大家诉求，本次周会主要演示下golang代码如何debug，包括以下几个model @铭少（阿里云）
+大体介绍了代码的结构与实现，再演示了下如何进行debug。
+1. chaosblade
+2. chaosblade-exec-os
