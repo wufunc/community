@@ -133,3 +133,21 @@ https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《Chaos
 大体介绍了代码的结构与实现，再演示了下如何进行debug。
 1. chaosblade
 2. chaosblade-exec-os
+
+# 2022.10.20
+
+## 参会人
+蔡铭霞 （阿里云）
+许玲剑 (哈喽出行)
+龚华健（西北工业大学）
+叶飞（perfma）
+曹付江（移动运维）
+李森森（移动）
+
+## 主要主题
+本次周会主要和大家同步下最近社区的主要工作和进展
+
+1. 官网建设进展和后续安排 @铭少
+2. GitHub action的补充与完善，后续要补充单测 @铭少
+3. 新增github model，middleware和cloud @铭少
+4. 新增阿里云上场景介绍，并详解实际工作落地背景与使用 @许玲剑 
