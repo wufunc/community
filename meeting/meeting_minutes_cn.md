@@ -188,3 +188,17 @@ https://www.yuque.com/docs/share/b2e204eb-83ed-4ccb-8422-e2a2a2a3e797?# 《Chaos
 
 ## 相关讨论
 * 开发者如何简单优雅的调试Operator，待解决
+
+# 2022.12.01
+
+## 参会人
+蔡铭霞（阿里云）
+张斌斌（滴滴）
+
+## 主要主题
+本次周会主要chaosblade-operator如何debug
+* chaosblade-operator代码结构
+* 如何进行debug
+
+## 相关讨论
+* opeartor和cri之间的关系，如何做到复用
