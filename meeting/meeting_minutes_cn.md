@@ -220,3 +220,30 @@ chaosblade功能与社区发展
 
 ## 相关讨论
 * go应用层故障注入的function是如何获取的
+
+# 2022.12.29
+
+## 参会人
+蔡铭霞（阿里云）
+杨传坤(移动)
+曹付江（移动运维）
+叶飞（perfma）
+李森森(移动)
+元宁（移动）
+晁元宁（移动）
+
+## 主要主题
+1. 评审 @Yuaninga 成为review https://github.com/chaosblade-io/community/pull/10
+2. 探讨后续社区发展，希望大家踊跃发言
+
+## 相关讨论
+1. 底层场景功能： 
+  1.1. 适配国产化需求，如：数据库、操作系统等
+  1.2. redis,http相关场景应该可以放在哪个module
+  1.3. 工具升级了，但box平台没有同步
+  1.4. 将image迁移到github, helm repo
+  1.5. trace有对接的想法吗？现在的chaosblade只做故障注入，监控、链路这块的可视化能力感觉比较欠缺
+2. issue处理比较慢，可以将解答问题、issue纳为晋升要求
+3. 贡献者社区活跃度比较低
+4. 公众号/掘金/medium/csdn/reddit/gopher/[goc](https://dev.to/t/go)/[gocn](https://gocn.vip/)
+
