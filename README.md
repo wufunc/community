@@ -17,7 +17,7 @@ Quickly Link:
 
 - [Meeting Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=cnM2cGJjYmdmYThvaGVoZjY4M21lZWprdXNfMjAyMjA2MTdUMTEwMDAwWiBjYW1peDAxMTZAbQ&tmsrc=camix0116%40gmail.com&scp=ALL)
 - [Meeting Link](https://zoom.us/j/99932900142?pwd=dlFQYWRzdWZaSDVZd1NkUzcydjZFUT09)
-- [Meeting Documentation](meeting/meeting_minutes_cn.md)
+- [Meeting Documentation](meeting/meeting_minutes_cn_2022.md)
 - [Meeting Recordings(bilibili)](https://space.bilibili.com/22390414/video)
 - [Meeting Recordings(youtube)](TODO_会议记录（youtube）)
 

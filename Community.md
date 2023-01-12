@@ -17,7 +17,7 @@ Quickly Link:
 
 - [Meeting Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/Y3RsN3ExY2w5bGdmaWFwMzhoaW1iMGowbm9fMjAyMjA3MDFUMDMwMDAwWiBvYW1kZXYyMDIwQG0)
 - [Meeting Link](https://us02web.zoom.us/j/81618025810?pwd=WEEySUFQd0JYeThjTUdpOXdLeG8wUT09)
-- [Meeting Documentation](meeting/meeting_minutes_cn.md)
+- [Meeting Documentation](meeting/meeting_minutes_cn_2022.md)
 - [Meeting Recordings(bilibili)](https://space.bilibili.com/22390414/video)
 
 ## Contributor ladder
