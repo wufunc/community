@@ -187,14 +187,42 @@ Features
 * Support container jvm exp
 * Merge OS bin to reduce package size
 
+## v1.6.1 (Rlease Time:2022.6)
+This release is based on the 1.6.0-Alpha release with a number of bug fixes and improved stability.
+
+Features
+* Network dns support multiple domain. (chaosblade-io/chaosblade-exec-os#110)
+* Add spring cloud feign plugin. (chaosblade-io/chaosblade-exec-jvm#249)
+
+
+## v1.7.0 (Rlease Time:2022.9)
+This release adds some new drill experiment, fixes some bugs in 1.6.*, and greatly improves jvm performance optimization.
+
+Features
+* Add time travel experiment.
+* Made process kill and stop support --pid flag
+* Undepends on blade binaries
+* Depend sandbox 1.3.4 to support jdk18
+* Lazy load plugin (#663)
+* Add plugin zookeeper and clickhouse (chaosblade-io/chaosblade-exec-jvm#235)
+
+## v1.7.1 Latest (Rlease Time:2022.12)
+This release adds some new drill experiment, fixes some bugs in 1.7.0.
+
+Features
+* feature: add aliyun experiment, add cloud entry by @arthur657834 in #807
+* feature: add middleware executor for chaosblade-exec-middleware module by @fjz99 in #776
+* feature: Add tc protocol filter and test file
+* feature:add multi pid parse(no need if else)
+* Add github action for multi module.
+
 ## next version -- todo
 This version fixes some bugs of the previous version. 
 
 * Improve the chaosblade.io website and documentation
-* Box: some table not existed -- have fixed
-* Agent: not use external-ip
-* Box-fe: experiment time is wrong
-* Blade: create node cpu fullload invalid 
-* Blade: GetPidsByProcessName slow execution, lead to be signal killed
+* Box: Enhance platform capabilities and increase observability
+* Combining ebpf technology to refine chaos experiment
+* Add support for cri-o container runtime
+* Complete the chaos experiment on GCP/AWS/Azure
 
 
