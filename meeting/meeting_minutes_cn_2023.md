@@ -61,3 +61,10 @@ maxmemory的作用，是当Redis 执行写操作时，发现内存超出 maxmemo
 2. 增加对server端redis的支持
 3. 增加对http的支持
 4. 增加对network的支持
+
+# 2023.04.06
+## 主讲人
+蔡铭霞（阿里云）
+...
+## 主要主题
+chaosblade内核演练实现 方案介绍
