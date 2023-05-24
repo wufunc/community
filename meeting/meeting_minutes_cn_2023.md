@@ -68,3 +68,22 @@ maxmemory的作用，是当Redis 执行写操作时，发现内存超出 maxmemo
 ...
 ## 主要主题
 chaosblade内核演练实现 方案介绍
+
+
+# 2023.04.20
+## 主讲人
+张斌斌（滴滴）
+...
+## 主要主题
+chaosblade jvm探针性能优化降低对cpu抖动的影响
+具体见：https://github.com/chaosblade-io/chaosblade/issues/843
+
+# 2023.05.18
+## 主讲人
+蔡铭霞（阿里云）
+...
+## 主要主题
+chaosblade新功能介绍
+1. ChaosBlade Helm repository 的实现及部署使用
+2. chaosblade 1.7.2 发版功能介绍
+3. cri-o 容器运行时支持
