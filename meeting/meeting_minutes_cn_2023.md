@@ -87,3 +87,12 @@ chaosblade新功能介绍
 1. ChaosBlade Helm repository 的实现及部署使用
 2. chaosblade 1.7.2 发版功能介绍
 3. cri-o 容器运行时支持
+
+# 2023.06.01
+## 主讲人
+蔡铭霞（阿里云）
+...
+## 主要主题
+chaosblade后续扩展探讨
+1. 故障场景层次不明，不利于后续扩展
+2. chaosblade-box-agent 1.0.3新版本介绍
