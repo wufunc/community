@@ -96,3 +96,13 @@ chaosblade新功能介绍
 chaosblade后续扩展探讨
 1. 故障场景层次不明，不利于后续扩展
 2. chaosblade-box-agent 1.0.3新版本介绍
+
+# 2023.06.15
+## 主讲人
+蔡铭霞（阿里云）
+...
+## 主要主题
+chaosblade支持windows场景
+1. 具体要开源能力和设计，详见： https://github.com/chaosblade-io/chaosblade/issues/912
+2. 后续可补充能力，欢迎大家补充
+3. box能力的迭代，目前比较急切的是box上不能动态加载chaosblade最新版本场景
