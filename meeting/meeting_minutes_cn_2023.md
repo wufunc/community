@@ -106,3 +106,15 @@ chaosblade支持windows场景
 1. 具体要开源能力和设计，详见： https://github.com/chaosblade-io/chaosblade/issues/912
 2. 后续可补充能力，欢迎大家补充
 3. box能力的迭代，目前比较急切的是box上不能动态加载chaosblade最新版本场景
+
+# 2023.06.29
+## 主讲人
+蔡铭霞（阿里云）
+曹付江(移动)
+杨传坤(移动)
+
+...
+## 主要主题
+chaosblade能力升级
+1. 缓存中间件redis实验：缓存过期和内存限制实验实现分析 
+2. chaosblade对应go版本由1.13升级到1.20；
