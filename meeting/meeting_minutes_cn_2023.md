@@ -118,3 +118,14 @@ chaosblade支持windows场景
 chaosblade能力升级
 1. 缓存中间件redis实验：缓存过期和内存限制实验实现分析 
 2. chaosblade对应go版本由1.13升级到1.20；
+
+# 2023.07.13
+## 主讲人
+蔡铭霞（阿里云）
+杨传坤(移动)
+
+...
+## 主要主题
+chaosblade功能和社区发展
+1. 元宁晋升maintainer评审
+2. windows能力同步
