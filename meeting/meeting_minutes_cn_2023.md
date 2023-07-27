@@ -129,3 +129,14 @@ chaosblade能力升级
 chaosblade功能和社区发展
 1. 元宁晋升maintainer评审
 2. windows能力同步
+
+# 2023.07.27
+## 主讲人
+蔡铭霞（阿里云）
+许玲剑 (哈喽出行)
+
+...
+## 主要主题
+chaosblade新版本发布
+1. chaosblade 1.7.3版本发布
+2. 1.7.3 feature aws场景能力介绍
