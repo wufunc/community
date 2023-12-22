@@ -153,3 +153,12 @@ chaosblade新版本发布
 1：中国移动对ChaosBlade项目的贡献介绍；
 2：说说如何为ChaosBlade项目做贡献；
 3：中国移动混沌工程实践个性化介绍
+
+# 2023.12.14
+## 主讲人
+蔡铭霞 (阿里云)
+
+## 主要主题
+chaosblade功能与社区发展
+新feature or bug fix详解
+
