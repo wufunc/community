@@ -11,7 +11,7 @@ The ChaosBlade community will hold video conferences every biweekly Friday 7:00p
 
 Regular Community Meeting:
 
-* Friday 7:00pm Beijing Time (Bi-weekly, Starting 17th June, 2022).
+* Thursday 8:00pm Beijing Time (First Thursday of every month, Starting 17th June, 2022).
   
 Quickly Link:
 
