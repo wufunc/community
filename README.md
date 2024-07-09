@@ -15,7 +15,7 @@ Regular Community Meeting:
   
 Quickly Link:
 
-- [Meeting Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=cnM2cGJjYmdmYThvaGVoZjY4M21lZWprdXNfMjAyMjA2MTdUMTEwMDAwWiBjYW1peDAxMTZAbQ&tmsrc=camix0116%40gmail.com&scp=ALL)
+- [Meeting Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/duplicate/MzFqYzhhZDJucWJkOWVlajEzZjFhb3Y5dnRfMjAyNDA3MDRUMTIwMDAwWiBjYW1peDAxMTZAbQ?scp=ALL)
 - [Meeting Link](https://zoom.us/j/99932900142?pwd=dlFQYWRzdWZaSDVZd1NkUzcydjZFUT09)
 - [Meeting Documentation](meeting/meeting_minutes_cn_2022.md)
 - [Meeting Recordings(bilibili)](https://space.bilibili.com/22390414/video)
