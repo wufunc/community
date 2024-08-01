@@ -4,12 +4,13 @@
 蔡铭霞（阿里云）
 
 ## 主要主题
-1. 1. 新版本发布的介绍
+1. 新版本发布的介绍
 2. 后续特性规划
 3. 社区运营
 4. cncf incubation进展
+   
 [2024-08-01 ChaosBlade Community Meeting](https://github.com/chaosblade-io/community/blob/main/meeting/doc/2024-08-01-chaosblade-meeting.md)
 
 ## 讨论
-* redis压测流量识别不到，可以通过key来做匹配
+* redis中间件原子场景是否有演进规划
 
