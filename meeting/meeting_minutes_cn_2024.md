@@ -8,7 +8,7 @@
 2. 后续特性规划
 3. 社区运营
 4. cncf incubation进展
-[2023-roadmap](doc/23年开源roadmap.pptx)
+[2024-08-01 ChaosBlade Community Meeting](https://github.com/chaosblade-io/community/blob/main/meeting/doc/2024-08-01-chaosblade-meeting.md)
 
 ## 讨论
 * redis压测流量识别不到，可以通过key来做匹配
