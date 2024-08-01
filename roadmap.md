@@ -206,7 +206,7 @@ Features
 * Lazy load plugin (#663)
 * Add plugin zookeeper and clickhouse (chaosblade-io/chaosblade-exec-jvm#235)
 
-## v1.7.1 Latest (Rlease Time:2022.12)
+## v1.7.1 (Rlease Time:2022.12)
 This release adds some new drill experiment, fixes some bugs in 1.7.0.
 
 Features
@@ -216,6 +216,24 @@ Features
 * feature:add multi pid parse(no need if else)
 * Add github action for multi module.
 
+## v1.7.2 (Rlease Time:2023.05)
+* feature: Add dns down.
+* feature: Add two redis experiments.
+
+## v1.7.3 (Rlease Time:2024.01)
+* update mod to 1.20 
+* feature: add aws experiment
+* Optimize specifing port range with binary mask 
+* add apache sharding-jdbc 4.x support for mysql plugin 
+
+## v1.7.4 Latest (Rlease Time:2024.07)
+* feature: Make musl-gcc configurable var to boost local builds
+* feature: a new feature for HBASE components
+* feature: new plugin for HDFS experiments
+* feature: add redis cache hot key experiment
+* feature add process load 
+* Enhancement : attach appliction but cannt get userName
+
 ## next version -- todo
 This version fixes some bugs of the previous version. 
 
@@ -224,5 +242,9 @@ This version fixes some bugs of the previous version.
 * Combining ebpf technology to refine chaos experiment
 * Add support for cri-o container runtime
 * Complete the chaos experiment on GCP/AWS/Azure
+* Support os chaos on windows
+* Support chaos for java process running on Windows
+* Support chaos on golang process
+* Platform optimization upgrade chaos tool
 
 
